@@ -4,7 +4,7 @@
 <img src="https://github.com/raghavk16/DCGAN-TensorFlow-Image-Gen/blob/master/dcgan_demo.gif" alt="Raghav Khullar"/>
 </div>
 
-* An implementation of DCGAN in Keras on Tensorflow backend, to generate high quality synthetic images.
+* An implementation of DCGAN in Keras on Tensorflow backend, to generate high-quality synthetic images from real images.
 
 * Important TensorFlow implementation codes in Python3, created while learning and using in TensorFlow-2.
 

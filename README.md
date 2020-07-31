@@ -8,6 +8,8 @@
 
 * Important TensorFlow implementation codes in Python3, created while learning and using in TensorFlow-2.
 
+* Dataset Used: [Fashion_MNIST](https://www.kaggle.com/zalando-research/fashionmnist)
+
 ## Prerequisite
 
 While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the JupyterLab or the classic Jupyter Notebook.

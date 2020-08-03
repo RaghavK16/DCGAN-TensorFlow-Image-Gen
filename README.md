@@ -10,6 +10,8 @@
 
 * Dataset Used: [Fashion_MNIST](https://www.kaggle.com/zalando-research/fashionmnist)
 
+* Made on Kaggle Kernel.
+
 ## Prerequisite
 
 While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the JupyterLab or the classic Jupyter Notebook.
